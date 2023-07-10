@@ -154,15 +154,6 @@ Now that everything is set-up, you can run the server.
    ```
 2. Open a browser and go to http://localhost:8080/
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Team Members
-
-* [Rahul Sabinkar](https://github.com/RahulSabinkar)
-* [Sai Manikanta Teja](https://github.com/SaiManikantaTeja)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
